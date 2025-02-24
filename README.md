@@ -1,4 +1,4 @@
-# github-protfolio
+# Github Protfolio
 
 ## Projects
 ### TinyUrl
